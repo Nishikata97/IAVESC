@@ -35,4 +35,4 @@ python main_cosmetics.py --dataset Cosmetics --alpha 0.02 --beta 100
 ~~~~
 
 ## Preprocessed data:
-The datasets have been preprocessed and encoded with pickle, which can be downloaded from the [link](https://pan.baidu.com/s/1sFJcHHH9zJh9EK5yZRnxqA) (password: 7isu)
+The datasets have been preprocessed and encoded with pickle, which can be downloaded from the [link](https://pan.baidu.com/s/1eJXDmYdPiyWgEDFcoEFstg) (password: v3bj)
